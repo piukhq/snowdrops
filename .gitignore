@@ -165,3 +165,4 @@ cython_debug/
 
 # sensetive data
 data/stonegate_unmatched/
+data/viator_weekly_files/
